@@ -1,0 +1,36 @@
+mock up
+
+nav internations dark-sky association + icon
+ icon a la izquierda
+ a la derecha sup link "support IDA" (sticky)
+                       abajo flavicons tiwtter, facebook, youtube, instagram
+                       search
+
+nav + dropdown
+
+div
+  frasel ida protect skies
+  inline-block three videos
+    link-url (3)
+
+-------------------
+article     |||   three articles on block ||| column get involved
+
+-------------------
+our programs
+
+images (3)
+  with description
+  link learn more
+
+  ----------
+  pollution affects us All
+  5 circule images with tiles below
+  images  with link inside
+
+  ---------------------
+  how you can help
+  3 squeres with content
+  link each one
+  -------------------
+  
